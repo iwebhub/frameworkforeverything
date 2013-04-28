@@ -1,4 +1,0 @@
-frameworkforeverything
-======================
-
-Framework for Everything
